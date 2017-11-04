@@ -1,0 +1,5 @@
+restapi\RestCUDApi\UserInfoService.class
+restapi\RestCUDApi\App.class
+restapi\RestCUDApi\RestCUDApiController.class
+restapi\RestCUDApi\UserInfoServiceImpl.class
+restapi\RestCUDApi\UserInfo.class
